@@ -2,6 +2,8 @@
 
 *The Gates of Hell reopen, throwing the world into chaos and setting demons free to terrorize the land once again. These troubles seem irrelevant to quirky villager Touka Scott-until a demon attacks Yuna Eunice, his childhood friend. Luckily, the legendary hero Sion Blandan arrives in the nick of time to strike down the vile creature. Unfortunately, Sion soon dies after accidentally falling into a trap Touka set to defend his radish farm. Anri Haysworth, Sion's necromancer companion, resurrects the hero by transferring Touka's soul into Sion's corpse. Now possessing the body of the legendary hero, Touka is tasked with resealing the Gates of Hell and defeating the demons that threaten peace. Together with Yuna and Anri, Touka copes with both his new reality and Sion's heroic legacy as he embarks to save the world*
 
+<img src="https://github.com/Martezumaya/the-legendary-hero-is-dead-gogoanime/blob/main/hd.png"/>
+
 +  Creator: Subaruichi
 
 +  Stars: Shunichi Toki / Ayana Taketatsu / Hibiku Yamamura
@@ -22,3 +24,4 @@ ___
 
 ___
 
+<img src="https://github.com/Martezumaya/the-legendary-hero-is-dead-gogoanime/blob/main/d.png"/>
